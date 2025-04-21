@@ -7,9 +7,9 @@ mkdir build
 cd build
 cmake ../
 make
-sudo make install
-
- 
+sudo make install 
+```
+  
 ##Сборка
 ```bash
 g++ UsbGps.cpp -lminme
