@@ -3,6 +3,8 @@
 
 ##Установка библиотеки
 ```bash
+git clone git@github.com:kosma/minmea.git
+cd minmea
 mkdir build
 cd build
 cmake ../
